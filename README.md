@@ -1,23 +1,14 @@
 <h3 align="left">Merhaba, Ben Enez Aykut Gülırmak</h3>
-<p>Ben Enez, full-stack mühendis olarak çeşitli projeler tamamlayarak kendimi geliştirdim. Frontend’de Tailwind CSS ve React, backend’de Node.js ve veritabanlarıyla çalışıyorum. Ayrıca gömülü sistemler, yapay zeka, makine öğrenimi, otomasyon, görüntü işleme ve elektronik devre tasarımıyla uğraşıyorum. Bir şey konuşmak istersen: <a href="mailto:enezgulirmak@gmail.com">Bana ulaş</a></p>
+<p>Ben Enez, full-stack mühendis olarak çeşitli projeler tamamlayarak kendimi geliştirdim. Frontend’de Tailwind CSS ve React, backend’de Node.js ve veritabanlarıyla çalışıyorum. Robot programlama (ABB, Fanuc, Yaskawa), simülasyon (MATLAB, Simulink, RoboDK), gömülü sistemler, yapay zeka, makine öğrenimi, otomasyon, HMI/SCADA, endüstriyel sistemler (GigE kameralar, sensörler), elektrik panosu tasarımı ve görüntü işleme projelerinde deneyimim var. Ayrıca TÜBİTAK TEYDEB 1501 ve 1507 gibi projeler yazıp onaylattım ve tamamladım. Proje yönetiminde PMP, PMI, Agile, Scrum, Sigma ve Waterfall metodolojilerini kullanıyorum. Bir şey konuşmak istersen: <a href="mailto:enezgulirmak@gmail.com">Bana ulaş</a></p>
 
 <h5 align="left">Sosyal Medya</h5>
 <div align="left">
   <a href="https://www.linkedin.com/in/glrmk-z/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/enezaykut" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://medium.com/@enezaykut" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-00AB6C?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://www.enezaykut.com" target="_blank">
-    <img src="https://img.shields.io/badge/enezaykut.com-000000?style=for-the-badge" alt="Personal Website" />
-  </a>
 </div>
 
-<h5 align="left">Kullandığım Teknolojiler</h5>
+<h5 align="left">Kullandığım Teknolojiler ve Metodolojiler</h5>
 <div align="left">
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="24" alt="html5 logo"  />
@@ -35,14 +26,34 @@
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge" height="24" alt="c logo"  />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="24" alt="cpp logo"  />
   <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=for-the-badge" height="24" alt="csharp logo"  />
+  <!-- Robot Programlama -->
+  <img src="https://img.shields.io/badge/ABB-FF9E0F?logo=abb&logoColor=white&style=for-the-badge" height="24" alt="abb logo"  />
+  <img src="https://img.shields.io/badge/Fanuc-FFD700?logo=fanuc&logoColor=black&style=for-the-badge" height="24" alt="fanuc logo"  />
+  <img src="https://img.shields.io/badge/Yaskawa-FF0000?logo=yaskawa&logoColor=white&style=for-the-badge" height="24" alt="yaskawa logo"  />
+  <!-- Simülasyon -->
+  <img src="https://img.shields.io/badge/MATLAB-FF7F00?logo=matlab&logoColor=white&style=for-the-badge" height="24" alt="matlab logo"  />
+  <img src="https://img.shields.io/badge/Simulink-0078D7?logo=simulink&logoColor=white&style=for-the-badge" height="24" alt="simulink logo"  />
+  <img src="https://img.shields.io/badge/RoboDK-00AEEF?logo=robodk&logoColor=white&style=for-the-badge" height="24" alt="robodk logo"  />
   <!-- AI ve Makine Öğrenimi -->
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="24" alt="python logo"  />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="24" alt="pytorch logo"  />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" height="24" alt="tensorflow logo"  />
   <img src="https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white&style=for-the-badge" height="24" alt="cuda logo"  />
-  <!-- Otomasyon ve Görüntü İşleme -->
+  <img src="https://img.shields.io/badge/Google Colab-F9AB00?logo=googlecolab&logoColor=white&style=for-the-badge" height="24" alt="colab logo"  />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="24" alt="aws logo"  />
+  <!-- Otomasyon ve Endüstriyel Sistemler -->
   <img src="https://img.shields.io/badge/Siemens-009999?logo=siemens&logoColor=white&style=for-the-badge" height="24" alt="siemens logo"  />
   <img src="https://img.shields.io/badge/Beckhoff-FF0000?logo=beckhoff&logoColor=white&style=for-the-badge" height="24" alt="beckhoff logo"  />
+  <img src="https://img.shields.io/badge/HMI-4CAF50?logo=hmi&logoColor=white&style=for-the-badge" height="24" alt="hmi logo"  />
+  <img src="https://img.shields.io/badge/SCADA-0288D1?logo=scada&logoColor=white&style=for-the-badge" height="24" alt="scada logo"  />
+  <img src="https://img.shields.io/badge/GigE Vision-3F51B5?logo=gigevision&logoColor=white&style=for-the-badge" height="24" alt="gige logo"  />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" height="24" alt="opencv logo"  />
+  <!-- Proje Yönetimi -->
+  <img src="https://img.shields.io/badge/PMP-003087?logo=pmp&logoColor=white&style=for-the-badge" height="24" alt="pmp logo"  />
+  <img src="https://img.shields.io/badge/Agile-FF5722?logo=agile&logoColor=white&style=for-the-badge" height="24" alt="agile logo"  />
+  <img src="https://img.shields.io/badge/Scrum-2196F3?logo=scrum&logoColor=white&style=for-the-badge" height="24" alt="scrum logo"  />
+  <img src="https://img.shields.io/badge/Six Sigma-4CAF50?logo=sixsigma&logoColor=white&style=for-the-badge" height="24" alt="sigma logo"  />
+  <img src="https://img.shields.io/badge/Waterfall-9C27B0?logo=waterfall&logoColor=white&style=for-the-badge" height="24" alt="waterfall logo"  />
   <!-- Araçlar -->
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="24" alt="github logo"  />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="24" alt="git logo"  />
