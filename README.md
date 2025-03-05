@@ -56,8 +56,12 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" height="24" alt="tensorflow logo"  />
   <img src="https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white&style=for-the-badge" height="24" alt="cuda logo"  />
   <img src="https://img.shields.io/badge/Google Colab-F9AB00?logo=googlecolab&logoColor=white&style=for-the-badge" height="24" alt="colab logo"  />
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="24" alt="aws logo"  />
   <img src="https://img.shields.io/badge/Fuzzy Logic-9C27B0?logo=fuzzylogic&logoColor=white&style=for-the-badge" height="24" alt="fuzzy logic logo"  />
+</div>
+
+## Bulut Teknolojileri
+<div align="left">
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="24" alt="aws logo"  />
 </div>
 
 ## Otomasyon ve Endüstriyel Sistemler
@@ -89,9 +93,10 @@
 ## Proje Yönetimi
 <div align="left">
   <img src="https://img.shields.io/badge/PMP-003087?logo=pmp&logoColor=white&style=for-the-badge" height="24" alt="pmp logo"  />
+  <img src="https://img.shields.io/badge/PMI-003087?logo=pmi&logoColor=white&style=for-the-badge" height="24" alt="pmi logo"  />
   <img src="https://img.shields.io/badge/Agile-FF5722?logo=agile&logoColor=white&style=for-the-badge" height="24" alt="agile logo"  />
   <img src="https://img.shields.io/badge/Scrum-2196F3?logo=scrum&logoColor=white&style=for-the-badge" height="24" alt="scrum logo"  />
-  <img src="https://img.shields.io/badge/Six Sigma-4CAF50?logo=sixsigma&logoColor=white&style=for-the-badge" height="24" alt="sigma logo"  />
+  <img src="https://img.shields.io/badge/Six Sigma Black Belt-4CAF50?logo=sixsigma&logoColor=white&style=for-the-badge" height="24" alt="sigma black belt logo"  />
   <img src="https://img.shields.io/badge/Waterfall-9C27B0?logo=waterfall&logoColor=white&style=for-the-badge" height="24" alt="waterfall logo"  />
 </div>
 
@@ -99,7 +104,6 @@
 <div align="left">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="24" alt="github logo"  />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="24" alt="git logo"  />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="24" alt="figma logo"  />
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="24" alt="vscode logo"  />
 </div>
 
