@@ -23,7 +23,7 @@
 
 ## Gömülü Sistemler ve Programlama Dilleri
 <div align="left">
-  <img src="https://img.shields.io/badge/Embedded Systems-FF5722?logo=embedded&logoColor=white&style=for-the-badge" height="24" alt="embedded logo"  />
+  <img src="https://img.shields.io/badge/ARM-Cortex_&_Xtensa_&_8bit-Powered_Embedded-FF5722?logo=embedded&logoColor=white&style=for-the-badge" height="24" alt="Embedded Platforms" />
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge" height="24" alt="c logo"  />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="24" alt="cpp logo"  />
   <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=for-the-badge" height="24" alt="csharp logo"  />
