@@ -76,7 +76,7 @@
 
 ## GUI Tasarımı
 <div align="left">
-  <img src="https://img.shields.io/badge/PyQt-41CD52?logo=pyqt&logoColor=white&style=for-the-badge" height="24" alt="pyqt logo"  />
+  <img src="https://img.shields.io/badge/TKinter-41CD52?logo=pyqt&logoColor=white&style=for-the-badge" height="24" alt="pyqt logo"  />
   <img src="https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white&style=for-the-badge" height="24" alt="qt logo"  />
   <img src="https://img.shields.io/badge/C%23 GUI-239120?logo=csharp&logoColor=white&style=for-the-badge" height="24" alt="csharp gui logo"  />
 </div>
