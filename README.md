@@ -23,11 +23,14 @@
 
 ## Gömülü Sistemler ve Programlama Dilleri
 <div align="left">
-  <img src="https://img.shields.io/badge/STM32_&_ESP32–ESP8266_&_PIC16Fxxx-FF5722?logo=embedded&logoColor=white&style=for-the-badge" height="24" alt="Embedded Systems Badge" />
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge" height="24" alt="c logo"  />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="24" alt="cpp logo"  />
-  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=for-the-badge" height="24" alt="csharp logo"  />
+  <img src="https://img.shields.io/badge/ARM%20MCU-STM32-FF5722?logo=arm&logoColor=white&style=for-the-badge" height="24" alt="STM32 Badge" />
+  <img src="https://img.shields.io/badge/Xtensa%20MCU-ESP32_&_ESP8266-FF5722?logo=espressif&logoColor=white&style=for-the-badge" height="24" alt="ESP32 Badge" />
+  <img src="https://img.shields.io/badge/8--bit%20MCU-PIC16Fxxx-FF5722?logo=microchip&logoColor=white&style=for-the-badge" height="24" alt="PIC Badge" />
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge" height="24" alt="C logo" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="24" alt="C++ logo" />
+  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=for-the-badge" height="24" alt="C# logo" />
 </div>
+
 
 ## Robot Programlama ve Kinematiği
 <div align="left">
