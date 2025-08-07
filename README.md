@@ -1,5 +1,5 @@
 <h3 align="left">Merhaba, Ben Aykut Gülırmak</h3>
-<p>Ben Aykut, mekatronik yüksek mühendisi olarak çeşitli projeler tamamlayarak kendimi geliştirdim. Gömülü sistemler, robot programlama (ABB, Fanuc, Yaskawa), simülasyon (MATLAB, Simulink, RoboDK), yapay zeka, makine öğrenimi, otomasyon, HMI/SCADA, endüstriyel sistemler (GigE kameralar, sensörler), elektrik panosu tasarımı ve görüntü işleme projelerinde deneyimim var. Yazılım, donanım ve internet ulaşımını birleştiren, yüksek matematik hesapları içeren kompleks projeler tamamladım. Ayrıca TÜBİTAK TEYDEB 1501 ve 1507 gibi projeler yazıp onaylattım ve başarıyla sonuçlandırdım. Proje yönetiminde PMP, PMI, Agile, Scrum, Sigma ve Waterfall metodolojilerini kullanıyorum. Bir şey konuşmak istersen: <a href="mailto:enezgulirmak@gmail.com">Bana ulaş</a></p>
+<p>Mekatronik Yüksek Mühendisi olarak çeşitli projeler tamamlayarak kendimi geliştirdim. Gömülü sistemler, robot programlama (ABB, Fanuc, Yaskawa), simülasyon (MATLAB, Simulink, RoboDK), yapay zeka, makine öğrenimi, endüstriyel otomasyon, HMI/SCADA, endüstriyel sistemler (GigE kameralar, sensörler) ve görüntü işleme projelerinde deneyimim var. Yazılım, donanım ve haberleşme sistemlerini birleştiren, yüksek matematik hesapları içeren kompleks projeler tamamladım. Ayrıca TÜBİTAK TEYDEB 1501 ve 1507 gibi projeler yazıp onaylattım ve yönetimini ele alarak başarıyla sonuçlandırdım. Proje yönetiminde PMP, PMI, Agile, Scrum ve Waterfall metodolojilerini kullanıyorum. Bir şey konuşmak istersen: <a href="mailto:enezgulirmak@gmail.com">Bana ulaş</a></p>
 
 <h5 align="left">Sosyal Medya</h5>
 <div align="left">
@@ -94,7 +94,6 @@
   <img src="https://img.shields.io/badge/PMI-003087?logo=pmi&logoColor=white&style=for-the-badge" height="24" alt="pmi logo"  />
   <img src="https://img.shields.io/badge/Agile-FF5722?logo=agile&logoColor=white&style=for-the-badge" height="24" alt="agile logo"  />
   <img src="https://img.shields.io/badge/Scrum-2196F3?logo=scrum&logoColor=white&style=for-the-badge" height="24" alt="scrum logo"  />
-  <img src="https://img.shields.io/badge/Six Sigma Black Belt-4CAF50?logo=sixsigma&logoColor=white&style=for-the-badge" height="24" alt="sigma black belt logo"  />
   <img src="https://img.shields.io/badge/Waterfall-9C27B0?logo=waterfall&logoColor=white&style=for-the-badge" height="24" alt="waterfall logo"  />
 </div>
 
